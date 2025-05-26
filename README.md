@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh Vaishnav</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhvasihnav&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhvasihnav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SauRabhVaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="SauRabhVaishnav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhvasihnav" alt="saurabhvasihnav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SauRabhVaishnav" alt="SauRabhVaishnav" /></a> </p>
 
 - 🌱 I’m currently learning **html, css,react, javascript, mongodb, nodejs, expressjs,**
 
